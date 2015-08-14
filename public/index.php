@@ -2,6 +2,7 @@
 require_once realpath(__DIR__ . '/../includes/engelsystem_provider.php');
 
 $free_pages = array(
+    'login',
     'stats',
     'shifts_json_export_all',
     'user_password_recovery',
